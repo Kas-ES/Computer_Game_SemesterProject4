@@ -1,0 +1,40 @@
+sprites.png
+size: 73, 336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DOWNwhiteQueen
+  rotate: false
+  xy: 0, 0
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+LEFTwhiteQueen
+  rotate: false
+  xy: 0, 70
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+redCrown
+  rotate: false
+  xy: 0, 143
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+RESTwhiteQueen
+  rotate: false
+  xy: 0, 193
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+RIGHTwhiteQueen
+  rotate: false
+  xy: 0, 263
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1

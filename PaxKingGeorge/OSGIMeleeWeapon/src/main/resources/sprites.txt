@@ -1,0 +1,12 @@
+sword.png
+size: 55, 44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sword
+  rotate: false
+  xy: 1, 1
+  size: 53, 42
+  orig: 55, 44
+  offset: 1, 1
+  index: -1
