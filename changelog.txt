@@ -1,0 +1,24 @@
+commit bf39e6e2dc3237c8fbe525e2834ad2d0bc10fc89
+Merge: 3195353 c9a6ca7
+Author: markusmunk <mmunk19@student.sdu.dk>
+Date:   Wed Mar 3 07:59:41 2021 +0100
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 3195353fe0b345eb70567d6ad9e3556fb223a5da
+Author: Com <davil18@student.sdu.dk>
+Date:   Thu Feb 25 14:21:26 2021 +0100
+
+    0.1.0 File Creation
+
+commit c9a6ca7ebb89f298c87e2cc2c438f92c68ca6fd3
+Author: Com <davil18@student.sdu.dk>
+Date:   Thu Feb 25 14:21:26 2021 +0100
+
+    0.0.1 File Creation
+
+commit 70baafe04b0ebc38e5c2d17be29a58e32ee72584
+Author: markusmunk <55135794+markusmunk@users.noreply.github.com>
+Date:   Thu Feb 25 14:13:42 2021 +0100
+
+    Initial commit
